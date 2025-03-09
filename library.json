@@ -4,15 +4,15 @@
   "description": "Hitachi HD44780 LCD and clones via I2C PCF8574 expander",
   "authors":
   {
-    "name":  "ejoyneering",
-    "email": "enjoyneering@protonmail.com"
+    "name":  "kosak",
+    "email": "falaneve@gmail.com"
   },
   "repository":
   {
     "type": "git",
-    "url":  "https://github.com/enjoyneering/LiquidCrystal_I2C.git"
+    "url":  "https://github.com/Kosak92/LiquidCrystal_I2C.git"
   },
-  "version":    "1.4.0",
+  "version":    "1.0.0",
   "frameworks": "arduino",
   "platforms": "*"
 }
